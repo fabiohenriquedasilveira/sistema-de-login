@@ -27,7 +27,7 @@ endif;
 </head>
 <body>
 <h1>Login</h1>
-<h2></h2>
+<h2>Senha</h2>
     <?php
     if(!empty($erros)):
         foreach($erros as $erro):
